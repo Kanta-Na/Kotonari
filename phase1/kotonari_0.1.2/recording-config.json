@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 
 {
-    "_comment": "intervalMs は録音ファイルの保存間隔（ミリ秒単位）。例：60000 は 1分ごと。",
-    "intervalMs": 15000
+    "_comment": "intervalMs は録音ファイルの保存間隔（ミリ秒単位）。例:60000 は 1分ごと。",
+    "intervalMs": 30000
   }
-=======
-
-{
-    "_comment": "intervalMs は録音ファイルの保存間隔（ミリ秒単位）。例：60000 は 1分ごと。",
-    "intervalMs": 15000
-  }
->>>>>>> 0c12d86 (first commit from Mac)
   

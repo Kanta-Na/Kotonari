@@ -68,3 +68,6 @@ dist/
 assets/*.ico
 assets/*.png
 !assets/.gitkeep
+
+# 修正前ファイル
+old/

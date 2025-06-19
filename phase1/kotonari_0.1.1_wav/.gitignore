@@ -65,6 +65,4 @@ electron-builder.yml
 chrome-debug.log
 
 dist/
-assets/*.ico
-assets/*.png
 !assets/.gitkeep
