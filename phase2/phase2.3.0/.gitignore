@@ -1,0 +1,33 @@
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit temporary files
+.streamlit/
+*.log
+
+# OS-specific
+.DS_Store
+
+# Environment files
+.env
+
+# Jupyter and cache
+.ipynb_checkpoints/
+*.swp
+
+# VSCode and IDE config
+.vscode/
+.idea/
+
+
+# .gitignore に追加すべき内容
+text/*.txt
+model_cache/
+*.pyc
+__pycache__/
+.streamlit/
+
+*.ipynb

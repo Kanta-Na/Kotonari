@@ -1,0 +1,14 @@
+# Core dependencies
+line-bot-sdk==3.5.0
+watchdog==3.0.0
+python-dotenv==1.0.0
+
+# NLP dependencies
+transformers==4.36.0
+torch==2.1.0
+sentencepiece==0.1.99
+numpy==1.24.3
+
+# Utilities
+requests==2.31.0
+aiohttp==3.8.5
