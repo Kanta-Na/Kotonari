@@ -1,0 +1,44 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# 環境設定
+.env
+.env.local
+.env.*.local
+
+# ログファイル
+logs/
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Whisperモデルキャッシュ
+.cache/
+models/
+
+# 一時ファイル
+*.tmp
+*.temp
+.temp/
+
+# 処理済みファイルのトラッキング
+.processed_files.json
